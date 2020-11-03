@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://raghunath:Raghunath123@@booksworld0.rrpf8.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "jwtscrettoken"
+}
+
